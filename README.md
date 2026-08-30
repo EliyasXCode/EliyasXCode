@@ -49,37 +49,6 @@ const eliyasMulla = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-### 💍 VivahaVerse AI — Intelligent Destination Wedding Planner
-
-
-A luxury, production-quality Full-Stack MERN + Generative AI platform for destination weddings across India — powered by Google Gemini (text + image models), grounded in MongoDB Atlas, with a deterministic multi-tier budget engine.
-
-| Layer | Technology |
-|---|---|
-| Frontend | React 18, Vite, Tailwind CSS, Framer Motion |
-| Backend | Node.js, Express.js, MongoDB Atlas, JWT Auth |
-| Generative AI | Google Gemini `gemini-3.7-flash` (planning) + `gemini-3.1-flash-image` (visualizer) |
-
-🔗 [Live](https://vivaha-verse-ai-panner.vercel.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/EliyasXCode/VivahaVerse-AI-Panner)
-
-<br/>
-
-### 🌍 Explore Earth — AI Travel Planner
- 
-
-An award-style, futuristic travel platform combining photorealistic Three.js 3D globe visualizations, 360° panorama tours, an AI-powered itinerary planner ("Atlas AI"), and real-time INR budget utilities.
-
-| Layer | Technology |
-|---|---|
-| Frontend | React 18, TypeScript, Vite, Tailwind CSS |
-| 3D / Graphics | Three.js, React Three Fiber, Drei |
-| AI | Atlas AI Travel Planner (itinerary + concierge chat) |
-
-🔗 [Live](https://ai-travel-planner-five-lemon.vercel.app) &nbsp;|&nbsp; 💻 [Code](https://github.com/EliyasXCode/AI-Travel-Planner)
-
-<br/>
 
 ## 🛠️ Tech Stack
 
