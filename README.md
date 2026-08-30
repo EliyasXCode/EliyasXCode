@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=200&section=header&text=Eliyas%20Mulla&fontSize=50&fontColor=0b0f19&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/EliyasXCode">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+MERN+%26+Django; Integrating+Generative+AI+(Gemini+API)+into+products;Currently+shipping+VivahaVerse+AI+%26+Explore+Earth;Open+to+Full+Stack+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+full-stack+apps+with+MERN+%26+Django;Integrating+Generative+AI+(Gemini+API)+into+products;Currently+shipping+VivahaVerse+AI+%26+Explore+Earth;Open+to+Full+Stack+Developer+roles+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
