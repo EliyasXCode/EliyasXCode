@@ -53,7 +53,6 @@ const eliyasMulla = {
 
 ### 💍 VivahaVerse AI — Intelligent Destination Wedding Planner
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EliyasXCode&repo=VivahaVerse-AI-Panner&theme=nord&border_color=a78bfa&hide_border=false" alt="VivahaVerse AI pin"/>
 
 A luxury, production-quality Full-Stack MERN + Generative AI platform for destination weddings across India — powered by Google Gemini (text + image models), grounded in MongoDB Atlas, with a deterministic multi-tier budget engine.
 
@@ -68,8 +67,7 @@ A luxury, production-quality Full-Stack MERN + Generative AI platform for destin
 <br/>
 
 ### 🌍 Explore Earth — AI Travel Planner
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EliyasXCode&repo=AI-Travel-Planner&theme=nord&border_color=a78bfa&hide_border=false" alt="AI Travel Planner pin"/>
+ 
 
 An award-style, futuristic travel platform combining photorealistic Three.js 3D globe visualizations, 360° panorama tours, an AI-powered itinerary planner ("Atlas AI"), and real-time INR budget utilities.
 
