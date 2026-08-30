@@ -119,15 +119,7 @@ An award-style, futuristic travel platform combining photorealistic Three.js 3D 
 <img src="https://streak-stats.demolab.com/?user=EliyasXCode&theme=nord&border=a78bfa&ring=a78bfa&fire=a78bfa&hide_border=false" alt="GitHub Streak"/>
 
 </div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EliyasXCode&theme=react-dark&hide_border=true&color=a78bfa&line=a78bfa&point=ffffff" alt="Activity Graph" width="100%"/>
-
-</div>
-
+ 
 <br/>
 
 ## 🤝 Connect With Me
