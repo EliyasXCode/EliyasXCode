@@ -113,7 +113,6 @@ An award-style, futuristic travel platform combining photorealistic Three.js 3D 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EliyasXCode&show_icons=true&theme=nord&border_color=a78bfa&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliyasXCode&layout=compact&theme=nord&border_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&hide_border=false" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=EliyasXCode&theme=nord&border=a78bfa&ring=a78bfa&fire=a78bfa&hide_border=false" alt="GitHub Streak"/>
