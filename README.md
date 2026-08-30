@@ -10,9 +10,7 @@
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20Developer-a78bfa?style=for-the-badge&logo=briefcase&logoColor=black&labelColor=0b0f19)
 
-![Profile Views](https://komarev.com/ghpvc/?username=EliyasXCode&style=flat-square&color=a78bfa&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/EliyasXCode?style=flat-square&color=a78bfa&label=Followers&logo=github)
-
+ 
 </div>
 
 <br/>
