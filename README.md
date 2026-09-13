@@ -1,4 +1,5 @@
 <div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-a78bfa?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0b0f19)](https://eliyas-mulla-portfolio.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=200&section=header&text=Eliyas%20Mulla&fontSize=50&fontColor=0b0f19&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Explorer&descAlignY=55&descSize=18" width="100%"/>
 
