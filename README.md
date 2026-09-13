@@ -95,7 +95,7 @@ const eliyasMulla = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-eliyas--mulla-a78bfa?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0b0f19)](https://www.linkedin.com/in/eliyas-mulla-4a8449257/)
 [![Email](https://img.shields.io/badge/Email-eliyasmulla79%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0b0f19)](mailto:eliyasmulla79@gmail.com)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-a78bfa?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0b0f19)](https://eliyas-mulla-portfolio.vercel.app/)
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=120&section=footer&animation=twinkling" width="100%"/>
